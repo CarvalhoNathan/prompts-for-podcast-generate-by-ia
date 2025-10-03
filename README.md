@@ -12,6 +12,10 @@ Projeto que demonstra a criação de um **podcast completo** (roteiro, áudio e 
 
 ---
 
+## Preview do Podcast:
+
+https://github.com/user-attachments/assets/4025b9c7-b91c-47be-80bc-cf541ab26872
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - Geração de Roteiro
